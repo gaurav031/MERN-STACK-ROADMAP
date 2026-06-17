@@ -24,16 +24,16 @@ Welcome to the comprehensive, step-by-step guide to becoming a Job-Ready MERN St
 HTML is the skeleton of the web. Focus on building clean, accessible, and well-structured documents.
 
 ### 🟢 Beginner
-* Basic Structure (`<html>`, `<head>`, `<body>`)
-* Headings, Paragraphs, Lists (`<ul>`, `<ol>`, `<li>`)
-* Links and Anchor Tags (`<a>`)
-* Image Tags and Attributes (`<img>`)
+* Basic Structure (`html`, `head`, `body`)
+* Headings, Paragraphs, Lists (`ul`, `ol`, `li`)
+* Links and Anchor Tags (`a`)
+* Image Tags and Attributes (`img`)
 
 ### 🟡 Intermediate
-* Forms and Validations (`<form>`, `<input>`, `<select>`, `required`, `pattern`)
-* Tables (`<table>`, `<tr>`, `<td>`, `<th>`, `<thead>`, `<tbody>`)
-* Semantic Tags (`<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<footer>`)
-* Multimedia (`<audio>`, `<video>`, `<iframe>`)
+* Forms and Validations (`form`, `input`, `select`, `required`, `pattern`)
+* Tables (`table`, `tr`, `td`, `th`, `thead`, `tbody`)
+* Semantic Tags (`header`, `nav`, `main`, `article`, `section`, `footer`)
+* Multimedia (`audio`, `video`, `iframe`)
 
 ### 🔴 Advanced
 * SEO Basics (Meta tags, Open Graph tags)
