@@ -2,7 +2,7 @@
 
 A visual representation of the learning path to becoming a Job-Ready MERN Stack Developer.
 
-```text
+```
 MERN Stack Developer Roadmap (6-12 Months)
 ├── 1. Foundation: HTML (1-2 Weeks)
 │   ├── Beginner (Structure, Headings, Links, Images)
