@@ -14,7 +14,12 @@ MERN Stack Developer Roadmap (6-12 Months)
 │   ├── Intermediate (Flexbox, CSS Grid, Positioning, Responsive Design)
 │   ├── Advanced (CSS Variables, Animations, Transitions, Modern CSS)
 │   └── 🏆 Milestone: Fully Responsive Landing Page
-├── 3. Frontend: React.js (4-6 Weeks)
+├── 3. Programming: JavaScript (4-6 Weeks)
+│   ├── Beginner (Variables, Control Flow, Functions, Arrays)
+│   ├── Intermediate (DOM, Events, Objects, Array Methods, Closures)
+│   ├── Advanced (Async/Await, Fetch API, Modules, OOP)
+│   └── 🏆 Milestones: Calculator, To-Do App, Weather App
+├── 4. Frontend: React.js (4-6 Weeks)
 │   ├── JSX & Rendering
 │   ├── Components & Props
 │   ├── State & Events
@@ -29,14 +34,14 @@ MERN Stack Developer Roadmap (6-12 Months)
 │   ├── Performance Optimization
 │   ├── Project Structure
 │   └── 🏆 Milestones: Personal Portfolio, E-commerce UI Clone
-├── 4. Version Control: Git & GitHub (1 Week)
+├── 5. Version Control: Git & GitHub (1 Week)
 │   ├── Git Basics (init, add, commit, status, log)
 │   ├── Branching (branch, checkout, merge)
 │   ├── Remote Repositories (push, pull, clone)
 │   ├── Collaboration (PRs, Code Reviews)
 │   ├── Troubleshooting (Merge Conflicts)
 │   └── Advanced (GitHub Actions, Open Source)
-├── 5. Backend: Node.js & Express.js (4-5 Weeks)
+├── 6. Backend: Node.js & Express.js (4-5 Weeks)
 │   ├── Beginner
 │   │   ├── Node Fundamentals & Modules
 │   │   ├── File System & Event Loop
@@ -55,7 +60,7 @@ MERN Stack Developer Roadmap (6-12 Months)
 │       ├── Real-time Communication (Socket.IO)
 │       ├── Security Best Practices & Rate Limiting
 │       └── 🏆 Mini-Project: Real-time Chat API
-├── 6. Database: MongoDB (2-3 Weeks)
+├── 7. Database: MongoDB (2-3 Weeks)
 │   ├── MongoDB Basics (Documents, Collections)
 │   ├── CRUD Operations & Mongoose ODM
 │   ├── Schema Design & Validation
@@ -64,7 +69,7 @@ MERN Stack Developer Roadmap (6-12 Months)
 │   ├── Transactions
 │   ├── MongoDB Atlas (Cloud)
 │   └── 🏆 Milestone: Schema Design & Complex Queries
-├── 7. Deployment & DevOps (1-2 Weeks)
+├── 8. Deployment (1-2 Weeks)
 │   ├── Frontend Hosting (Vercel, Netlify)
 │   ├── Backend Hosting (Render, Railway, VPS)
 │   ├── Web Servers (Nginx) & Process Management (PM2)
@@ -72,7 +77,7 @@ MERN Stack Developer Roadmap (6-12 Months)
 │   ├── Automation (CI/CD Basics)
 │   ├── Networking (Domain, DNS, SSL)
 │   └── 🏆 Milestone: Deploy Full MERN App with Custom Domain
-└── 8. Final Full-Stack Projects
+└── 9. Final Full-Stack Projects
     ├── Beginner
     │   ├── Todo Application
     │   ├── Notes Application

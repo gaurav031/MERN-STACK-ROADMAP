@@ -8,14 +8,15 @@ Welcome to the comprehensive, step-by-step guide to becoming a Job-Ready MERN St
 
 1. [Phase 1: Foundation - HTML](#phase-1-foundation---html)
 2. [Phase 2: Styling - CSS](#phase-2-styling---css)
-3. [Phase 3: Frontend - React.js](#phase-3-frontend---reactjs)
-4. [Phase 4: Version Control - Git and GitHub](#phase-4-version-control---git-and-github-mandatory)
-5. [Phase 5: Backend - Node.js and Express.js](#phase-5-backend---nodejs-and-expressjs)
-6. [Phase 6: Database - MongoDB](#phase-6-database---mongodb)
-7. [Phase 7: Deployment and DevOps](#phase-7-deployment-and-devops)
-8. [Phase 8: Final Full-Stack Projects](#phase-8-final-full-stack-projects)
-9. [Bonus: Additional Portfolio-Worthy Projects](#bonus-additional-portfolio-worthy-projects)
-10. [The 6-12 Month Master Timeline](#the-6-12-month-master-timeline)
+3. [Phase 3: Programming - JavaScript](#phase-3-programming---javascript)
+4. [Phase 4: Frontend - React.js](#phase-4-frontend---reactjs)
+5. [Phase 5: Version Control - Git and GitHub](#phase-5-version-control---git-and-github-mandatory)
+6. [Phase 6: Backend - Node.js and Express.js](#phase-6-backend---nodejs-and-expressjs)
+7. [Phase 7: Database - MongoDB](#phase-7-database---mongodb)
+8. [Phase 8: Deployment](#phase-8-deployment)
+9. [Phase 9: Final Full-Stack Projects](#phase-9-final-full-stack-projects)
+10. [Bonus: Additional Portfolio-Worthy Projects](#bonus-additional-portfolio-worthy-projects)
+11. [The 6-12 Month Master Timeline](#the-6-12-month-master-timeline)
 
 ---
 
@@ -80,7 +81,43 @@ CSS brings your HTML to life. Master modern layout techniques like Flexbox and G
 
 ---
 
-## Phase 3: Frontend - React.js
+## Phase 3: Programming - JavaScript
+
+**Estimated Duration:** 4-6 Weeks
+
+Recommended Resource: [Chai Aur Code JavaScript Playlist](https://youtu.be/Hr5iLG7sUa0?si=TIFoUW2DXvLAcILj)
+
+JavaScript is the logic and brain of the web. Focus heavily on mastering core logic, DOM manipulation, and ES6+ concepts before jumping to React.
+
+### Beginner
+
+- Variables (let, const, var) and Data Types
+- Operators and Expressions
+- Control Flow (if/else, switch, loops)
+- Functions (Declarations, Expressions, Arrow Functions)
+- Arrays and Basic Array Methods
+
+### Intermediate
+
+- DOM Manipulation (Selecting, Creating, Modifying elements)
+- Event Listeners and Event Delegation
+- Objects and Object Methods
+- Advanced Array Methods (map, filter, reduce, find)
+- Scope, Hoisting, and Closures
+
+### Advanced
+
+- Asynchronous JavaScript (Callbacks, Promises, async/await)
+- Fetch API and Error Handling
+- Modules (import/export)
+- OOP in JavaScript (Classes, Prototypes, `this` keyword)
+- Web APIs (LocalStorage, Geolocation, Timer functions)
+
+**Project Milestones:** Build a Calculator, an Interactive To-Do List with Local Storage, and a Weather App using the Fetch API.
+
+---
+
+## Phase 4: Frontend - React.js
 
 **Estimated Duration:** 4-6 Weeks
 
@@ -112,9 +149,13 @@ React is a powerful library for building interactive user interfaces based on co
 
 ---
 
-## Phase 4: Version Control - Git and GitHub (Mandatory)
+## Phase 5: Version Control - Git and GitHub (Mandatory)
 
 **Estimated Duration:** 1 Week
+
+Recommended Resources:
+- [Apna College Git and GitHub Tutorial (Beginner)](https://youtu.be/Ez8F0nW6S-w?si=Cj_2xo6ydl-nnYks)
+- [Chai Aur Code Git and GitHub Tutorial (Advanced)](https://youtu.be/q8EevlEpQ2A?si=15oqkFQQH1AZUs4Q)
 
 Version control is essential for team collaboration and project tracking.
 
@@ -128,7 +169,7 @@ Version control is essential for team collaboration and project tracking.
 
 ---
 
-## Phase 5: Backend - Node.js and Express.js
+## Phase 6: Backend - Node.js and Express.js
 
 **Estimated Duration:** 4-5 Weeks
 
@@ -172,7 +213,7 @@ Recommended Resources:
 
 ---
 
-## Phase 6: Database - MongoDB
+## Phase 7: Database - MongoDB
 
 **Estimated Duration:** 2-3 Weeks
 
@@ -198,7 +239,7 @@ Recommended Resource: [6 Pack Programmer MongoDB Tutorial](https://youtu.be/AYDP
 
 ---
 
-## Phase 7: Deployment and DevOps
+## Phase 8: Deployment
 
 **Estimated Duration:** 1-2 Weeks
 
@@ -219,9 +260,11 @@ Take your applications to the live internet.
 
 ---
 
-## Phase 8: Final Full-Stack Projects
+## Phase 9: Final Full-Stack Projects
 
 Time to put everything together. Progress through these difficulty tiers.
+
+**Recommended Resource for Project Tutorials:** [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
 ### Beginner
 
